@@ -32,6 +32,7 @@ function watch() {
       baseDir: './',
     },
   })
+  style()
   gulp.watch('./scss/**/*.scss', style)
   gulp.watch('./*.html').on('change', browserSync.reload)
 }
