@@ -20,7 +20,7 @@ function style() {
         cascade: false,
       })
     )
-    .pipe(cleanCSS({ level: 2 }))
+    // .pipe(cleanCSS({ level: 2 }))
     .pipe(gulp.dest('./css'))
     .pipe(gulp.dest('./build/css'))
     .pipe(browserSync.stream())

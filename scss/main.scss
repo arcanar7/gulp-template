@@ -1,14 +1,15 @@
 @import 'normalize';
 @import './variables.scss';
+@import './mixins.scss';
 
-body {
-  background-color: green;
-}
+// === Header ===
 
-h1 {
-  color: white;
-}
+// === /Header ===
 
-.row {
-  display: flex;
-}
+// === Main ===
+
+// === /Main ===
+
+// === Footer ===
+
+// === /Footer ===
