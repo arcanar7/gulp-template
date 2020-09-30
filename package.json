@@ -9,19 +9,19 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.26.12",
     "del": "^5.1.0",
     "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^7.0.0",
-    "gulp-clean-css": "^4.2.0",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
     "gulp-concat": "^2.6.1",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^4.1.0",
     "gulp-stylelint": "^9.0.0",
-    "node-normalize-scss": "^8.0.1",
-    "stylelint": "^11.0.0",
-    "stylelint-config-recess-order": "^2.0.3",
+    "node-normalize-scss": "^8.1.2",
+    "stylelint": "^13.7.2",
+    "stylelint-config-recess-order": "^2.1.0",
     "stylelint-config-standard": "^19.0.0",
-    "stylelint-scss": "^3.11.1"
+    "stylelint-scss": "^3.18.0"
   },
   "browserslist": [
     "> 0.1%"
